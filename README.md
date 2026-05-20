@@ -50,3 +50,5 @@ Os produtos finais gerados pela esteira de IA foram organizados e disponibilizad
 O grande desafio deste laboratório foi mitigar o aspecto artificial comumente associado aos conteúdos gerados por inteligência artificial, buscando o selo **"Natty"** (natural) de qualidade. 
 
 O resultado final alcançou um nível surpreendente de naturalidade por dois fatores críticos: a engenharia de prompts aplicada ao roteiro (que incluiu pontuações pensadas para o ritmo de fala humano) e o motor de prosódia da ElevenLabs integrado ao HeyGen. O *lip-sync* preciso reduziu drasticamente o efeito de "vale da estranheza" (*uncanny valley*), demonstrando que avatares digitais já são ferramentas totalmente viáveis para treinamentos, *onboarding* e comunicações corporativas em larga escala.
+
+Caso o arquivo MP4 nao abra aqui está o link do vídeo na plataforma HeyGen: https://app.heygen.com/videos/apresenta-o-do-guia-de-conviv-ncia-c1eb06412d6f4718b57ce95a0d04224d
